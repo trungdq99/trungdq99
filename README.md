@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @trungdq99
+- 👀 I’m interested in developing Mobile Application
+- 🌱 I’m currently learning Flutter
